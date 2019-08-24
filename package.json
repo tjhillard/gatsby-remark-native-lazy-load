@@ -18,5 +18,9 @@
   "dependencies": {
     "unist-util-visit": "^2.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjhillard/gatsby-remark-native-lazy-load"
+  }
 }
