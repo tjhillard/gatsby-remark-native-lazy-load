@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-remark-native-lazy-load",
+  "version": "1.0.0",
+  "description": "Adds loading=\"lazy\" to your markdown images",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "gatsby",
+    "lazy load",
+    "lazy",
+    "loading",
+    "native"
+  ],
+  "author": "TJ Hillard",
+  "license": "ISC",
+  "dependencies": {
+    "unist-util-visit": "^2.0.0"
+  },
+  "devDependencies": {}
+}
